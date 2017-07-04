@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /SwaggerTestAPI.war
+  - source: /target/SwaggerTestAPI.war
     destination: /opt/tomcat/apache-tomcat-8.0.33/webapps/
 
 
